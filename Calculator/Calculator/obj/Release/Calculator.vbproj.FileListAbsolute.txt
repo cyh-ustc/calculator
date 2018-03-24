@@ -1,0 +1,16 @@
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Release\Calculator.application
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Release\Calculator.xml
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.Resources.resources
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.vbproj.GenerateResource.Cache
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.exe.manifest
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.application
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.xml
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Release\Calculator.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+r.WriteLine("pi=3.141592653589;e=2.718281828;")
+r.WriteLine("define sin(x){return s(x);}")
+r.WriteLine("define cos(x){return c(x);}")
+r.WriteLine("define tan(x){return s(x)/c(x);}")
+r.WriteLine("define atan(x){return a(x);}")
+r.WriteLine("define exp(x){return e(x);}")
+r.WriteLine("define ln(x){return l(x);}")
+r.WriteLine("define log(x){return l(x)/l(10);}")
+

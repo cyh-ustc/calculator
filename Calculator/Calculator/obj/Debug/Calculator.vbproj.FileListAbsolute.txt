@@ -1,0 +1,16 @@
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\76373\source\repos\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\76373\source\repos\Calculator\Calculator\obj\Debug\Calculator.application
