@@ -77,5 +77,6 @@ else:
 		return math.degrees((math.acos(x)))/0.9
 	def atan(x):
 		return math.degrees((math.atan(x)))/0.9
-calc(f.readline())
+c = f.readline()
+calc(c)
 f.close()
