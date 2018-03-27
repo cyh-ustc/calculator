@@ -24,6 +24,12 @@ PB15111676 蔡子凯
 
 \Calculator：计算器程序界面工程
 
+其中关键代码文件为
+
+\eval\eval.py
+
+\Calculator\Calculator\form1.vb
+
 # 使用说明
 
 点击\dist\Calculator.exe运行
