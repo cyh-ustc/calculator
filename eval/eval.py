@@ -2,8 +2,6 @@
 import math
 pi = math.pi
 e = math.e
-
-	
 def exp(x):
 	return math.exp(x)
 def log(x):
@@ -24,17 +22,13 @@ def acosh(x):
 	return math.acosh(x)
 def atanh(x):
 	return math.atanh(x)
-
 def calc(expr):
 	expr = expr.replace('^', '**')
 	z = open('ans.txt', 'w')
 	try:
-
 		z.write(str(eval(expr)))
-
 	except:
 		z.write('error')
-		
 	z.close()
 f = open('expr.txt', 'r')
 angle = int(f.readline())
@@ -59,11 +53,11 @@ elif angle == 1:
 	def tan(x):
 		return math.tan(x)
 	def asin(x):
-		return math.sin(x)
+		return math.asin(x)
 	def acos(x):
-		return math.cos(x)
+		return math.acos(x)
 	def atan(x):
-		return math.tan(x)
+		return math.atan(x)
 else:
 	def sin(x):
 		return math.sin(math.radians(x*0.9))
